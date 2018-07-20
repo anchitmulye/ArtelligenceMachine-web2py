@@ -19,6 +19,8 @@ Web2py is an open source web application framework written in the Python program
 ### Contact
 <img width="960" alt="2018-07-19" src="https://user-images.githubusercontent.com/31447977/43027387-90fd0c5c-8c97-11e8-980d-3459c364bf3d.png">
 
-## For more details
+## Website
 www.artelligencemachine.ml
+
+## YouTube video
 https://youtu.be/vHgw_SCHw_c
