@@ -1,0 +1,2 @@
+this is Artelligence Machine official website
+Developed with web2py.

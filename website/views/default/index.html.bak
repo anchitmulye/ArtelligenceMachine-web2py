@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+	  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,  shrink-to-fit=no">
+    
+    <title>Artelligence Machine</title>
+    
+    <link href="/web2/static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/web2/static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/web2/static/css/agency.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+  
+  </head>
+  
+  <body>
+	  
+    <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Artelligence Machine</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav text-uppercase ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#services">Work</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#team">Team</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead">
+      <div class="container">
+        <div class="intro-text">
+          <div class="intro-lead-in">Welcome!</div>
+          <div class="intro-heading text-uppercase"> </div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Know More</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Services -->
+    <section id="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Work</h2>
+            <h3 class="section-subheading text-muted">The core sectors on which we work</h3>
+          </div>
+        </div>
+        <div class="row text-center">
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-cogs fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading">Artificial Intelligence</h4>
+            <p class="text-muted">It is intelligence demonstrated by machines. Intricate programming to mimic the human intelligence.</p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading">Machine Learning</h4>
+            <p class="text-muted">It provides computer the ability to automatically learn and improve from experience without being explicitly programmed.</p>
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-pie-chart fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading">Data Analysis</h4>
+            <p class="text-muted">It is means of extracting important and sensible information from a large set of data.</p>
+          </div>
+             <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading">Software Development</h4>
+            <p class="text-muted">Developing applications for different ecosystem of mobiles and desktop environment.</p>
+          </div>
+             <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-server fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading">Full Stack Web Development</h4>
+            <p class="text-muted">Developing applications for server with involvement of different layers of front-end and back-end.</p>
+          </div>
+             <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-gamepad fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading">Game Development</h4>
+            <p class="text-muted">Developing applications with competitive levels to reach a particular goal, which involves graphics.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Portfolio Grid -->
+    <section class="bg-light" id="portfolio">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Portfolio</h2>
+            <h3 class="section-subheading text-muted">“It does not take much strength to do things, but it requires a great deal of strength to decide what to do.” - Elbert Hubbard</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/web2/static/images/portfolio/01-thumbnail.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Website</h4>
+              <p class="text-muted">python: wep2py</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item">
+              <a class="portfolio-link" data-toggle="modal" href="https://youtu.be/yN0josjwKe8" target="_blank">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/web2/static/images/portfolio/02-thumbnail.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Sudoku</h4>
+              <p class="text-muted">python: pygame</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/web2/static/images/portfolio/03-thumbnail.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4></h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>          
+        </div>
+      <div class="col-lg-12 text-center">
+             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">Know More</a>
+            </div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">About</h2>
+            <h3 class="section-subheading text-muted">“A journey of a thousand miles begins with a single step.” - Lao Tzu</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <ul class="timeline">
+              <li>
+                <div class="timeline-image">
+                  <img class="rounded-circle img-fluid" src="/web2/static/images/about/1.jpg" alt="">
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <h4>2018</h4>
+                    <h4 class="subheading">Trail Begins</h4>
+                  </div>
+                  <div class="timeline-body">
+                    <p class="text-muted">Working of projects and delivering polished products. We believe that the quality of the work separates a masterpiece from the rest. </p>
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <h4>JOIN
+                    <br>US
+                    <br>TODAY!</br></h4>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Team -->
+    <section class="bg-light" id="team">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Our Team</h2>
+            <h3 class="section-subheading text-muted">“The value of an idea lies in the using of it.” - Thomas Edison</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="/web2/static/images/team/1.jpg" alt="">
+              <h4>Anchit Mulye</h4>
+              <p class="text-muted">Founder</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="https://github.com/anchitmulye" target="_blank"><i class="fa fa-github"></i></a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.linkedin.com/in/anchit-m-abb478a3" target="_blank"><i class="fa fa-linkedin"></i></a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://twitter.com/anchitmulye" target="_blank"> <i class="fa fa-twitter"></i></a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="https://www.instagram.com/anchitmulye" target="_blank"><i class="fa fa-instagram"></i></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-8 mx-auto text-left">
+            <p class="large text-muted"><br></br>Lately science and technology have advanced so much that all the resources required for the development for next few years are already available to us. In past few years a lot of data is collected in the various domains. All we need is to figure out how to connect the dots to obtain the optimal result. I strongly believe important information is hidden in every set of data. Mining data is just like mining gold. Mining gold is possible with strong tools like machine learning and artificial intelligence.</p>
+          <div class="col-lg-8 mx-auto text-right">
+            <h3 class="section-subheading text-muted">Anchit Mulye</h3>
+          </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+   <section id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Contact Us</h2>
+            <h3 class="section-subheading text-muted">We are here for you.</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            {{=form.custom.begin}}
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                      <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." {{=form.custom.widget.name.update(_placeholder="Name *")}}
+                    <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="form-group">
+                      <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address."{{=form.custom.widget.email.update(_placeholder="Email *")}}
+                    <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="form-group">
+                      <input class="form-control" id="phone" type="text" placeholder="Your Subject *" required="required" data-validation-required-message="Please enter your subject."{{=form.custom.widget.subject.update(_placeholder="Subject *")}}
+                    <p class="help-block text-danger"></p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                      <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."
+                    {{=form.custom.widget.post.update(_placeholder="Message *")}}></textarea>
+                    <p class="help-block text-danger"></p>
+                  </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-lg-12 text-center">
+                  <div id="success"></div>
+                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                </div>
+              </div>
+            {{=form.custom.end}}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <span class="copyright">Copyright &copy; Artelligence Machine 2018</span>
+          </div>
+          <div class="col-md-4">
+            <ul class="list-inline social-buttons">
+			   <li class="list-inline-item">
+                <a href="https://www.instagram.com/artelligencemachine" target="_blank">
+                  <i class="fa fa-instagram"></i>
+                </a>
+              </li>
+			  <li class="list-inline-item">
+                <a href="https://www.youtube.com/channel/UCczKyJ03eHZTb--GtY_ZeTA" target="_blank">
+                  <i class="fa fa-youtube-play"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://twitter.com/ArtelligenceM" target="_blank">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/ArtelligenceMachine" target="_blank">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <ul class="list-inline quicklinks">
+              <li class="list-inline-item">
+                <a href="#">Privacy Policy</a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">Terms of Use</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="/web2/static/js/jquery.min.js"></script>
+    <script src="/web2/static/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="/web2/static/js/jquery.easing.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <script src="/web2/static/js/jqBootstrapValidation.js"></script>
+    <script src="/web2/static/js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="/web2/static/js/agency.min.js"></script>
+     
+  </body>
+</html>
