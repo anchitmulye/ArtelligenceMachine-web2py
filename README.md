@@ -21,6 +21,7 @@ https://youtu.be/vHgw_SCHw_c
 <img width="960" alt="2018-07-19 2" src="https://user-images.githubusercontent.com/31447977/43027366-7ad843a6-8c97-11e8-8825-5d4b620d6506.png">
 
 ### Contact
+In this section there is complete contact form which can be filled by user online. All the data fields will check for the received data and then data with will be stored in the database on the server.
 <img width="960" alt="2018-07-19" src="https://user-images.githubusercontent.com/31447977/43027387-90fd0c5c-8c97-11e8-980d-3459c364bf3d.png">
 
 ## Website
