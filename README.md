@@ -18,6 +18,7 @@ https://youtu.be/vHgw_SCHw_c
 <img width="960" alt="2018-07-19 3" src="https://user-images.githubusercontent.com/31447977/43027342-6349c0d4-8c97-11e8-9d28-6bf971f54747.png">
 
 ### Portfolio
+This section displays the thumbnail of images of the projects. The data is directly fetched from the database in reverse chronological order. 
 <img width="960" alt="2018-07-19 2" src="https://user-images.githubusercontent.com/31447977/43027366-7ad843a6-8c97-11e8-8825-5d4b620d6506.png">
 
 ### Contact
@@ -25,7 +26,7 @@ In this section there is complete contact form which can be filled by user onlin
 <img width="960" alt="2018-07-19" src="https://user-images.githubusercontent.com/31447977/43027387-90fd0c5c-8c97-11e8-980d-3459c364bf3d.png">
 
 ## Website
-www.artelligencemachine.ml
+https://artelligencemachine.pythonanywhere.com/website/
 
 ## YouTube video
 https://youtu.be/vHgw_SCHw_c
