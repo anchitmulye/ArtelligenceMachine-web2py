@@ -6,7 +6,7 @@
 Web2py is an open source web application framework written in the Python programming language. Web2py allows web developers to program dynamic web content using Python.
 
 ## About the Project
-This is a complete website implemented on server and live @ www.artelligencemachine.ml 
+This is a complete website implemented on server and live @ https://artelligencemachine.pythonanywhere.com/website/
  
 There is an autoreply email feature implimented on the server which can also be seen here 
 https://youtu.be/vHgw_SCHw_c
